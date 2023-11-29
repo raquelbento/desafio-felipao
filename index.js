@@ -1,4 +1,4 @@
-let nomeHeroi = "Raquel Bento"
+let nomeHeroi = "Giba Cat"
 let quantXp = 10000
 
 if (quantXp <= 1000) {
